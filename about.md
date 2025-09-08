@@ -12,3 +12,33 @@
 1. As I said, I know how to use Django.
 2. I usually use VS code as an IDE. 
 3. Since Django is a web dev framework, I also know how to use python, html, css, and regular javascript. 
+<br>
+<br>
+<br>
+
+<hr>
+<div class='footer' style="
+  height: 10%;
+  display: flex;
+  width: 50%;
+  justify-content: space-between"
+  > 
+  <a style="height: inherit;
+    color: red;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 30px;" 
+    href="chessmate08.github.io/">home</a>
+  <a style="height: inherit;
+    color: red;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 30px;" 
+    href="chessmate08.github.io/about">about</a>
+  <a style="height: inherit;
+    color: red;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 30px;" 
+    href="chessmate08.github.io/projects">projects</a>
+</div>

@@ -1,19 +1,28 @@
 # chessmate08
 
-<img src="https://static.vecteezy.com/system/resources/previews/054/237/968/non_2x/baby-dragon-in-a-dreamy-world-design-free-vector.jpg" alt="toothless" style="width: 40%;">
-<div style="
-    height: 10%;
-    display: flex;
-    width: 50%;
-    justify-content: space-between"> 
+<img src="https://static.vecteezy.com/system/resources/previews/054/237/968/non_2x/baby-dragon-in-a-dreamy-world-design-free-vector.jpg" alt="toothless" style="width: 40%;"><br><br><br><hr>
+<div class='footer' style="
+  height: 10%;
+  display: flex;
+  width: 50%;
+  justify-content: space-between"
+  > 
   <a style="height: inherit;
-      color: red;
+    color: red;
     border: 2px solid black;
     border-radius: 20px;
-      padding: 30px;" href="#">about</a><br>
+    padding: 30px;" 
+    href="chessmate08.github.io/">home</a>
   <a style="height: inherit;
-      color: red;
+    color: red;
     border: 2px solid black;
     border-radius: 20px;
-      padding: 30px;" href="#">projects</a>
+    padding: 30px;" 
+    href="chessmate08.github.io/about">about</a>
+  <a style="height: inherit;
+    color: red;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 30px;" 
+    href="chessmate08.github.io/projects">projects</a>
 </div>
