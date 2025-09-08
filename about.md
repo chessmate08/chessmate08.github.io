@@ -20,8 +20,8 @@
 <div class='footer' style="
   height: 10%;
   display: flex;
-  width: 50%;
-  justify-content: space-between"
+  width: %;
+  justify-content: space-evenly"
   > 
   <a style="height: inherit;
     color: red;
