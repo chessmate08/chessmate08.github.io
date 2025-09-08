@@ -5,10 +5,12 @@
     height: 10%;
     width: 50%'> 
   <a style='height: inherit;
+      color: red;
     border: 2px solid black;
     border-radius: 50px;
-    background: gradient(light-gray, white)' href='#'>about</a>
+    background: gradient(light-gray, white)' href='#'>about</a><br>
   <a style='height: inherit;
+      color: red;
     border: 2px solid black;
     border-radius: 50px;
     background: gradient(light-gray, white)' href='#'>projects</a>
