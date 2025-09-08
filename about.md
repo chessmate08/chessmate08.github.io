@@ -6,6 +6,8 @@
 -📫 How to reach me: <a href='mailto:jonahbernard96@gmail.com'>jonahbernard96@gmail.com</a></li>
 -⚡ Fun fact: I have been using the username "chessmate" for about ten years at this point, and I actually got the name from the vulture in <em>Horton Hears a Who</em>. </li> 
 
+<img src="https://static.vecteezy.com/system/resources/previews/054/237/968/non_2x/baby-dragon-in-a-dreamy-world-design-free-vector.jpg" alt="toothless" style="width: 40%;">
+
 ## Technical
 1.As I said, I know how to use Django.
 2.I usually use VS code as an IDE. 
